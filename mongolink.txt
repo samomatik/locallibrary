@@ -1,0 +1,1 @@
+mongodb+srv://samomatik:8VQEc0wVOGhKzHwh@cluster0-llkkr.mongodb.net/test?retryWrites=true&w=majority
